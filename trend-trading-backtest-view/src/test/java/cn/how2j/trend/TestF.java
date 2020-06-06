@@ -9,6 +9,7 @@ public class TestF {
      */
     @Test
     public void test(){
-
+        String a = "a";
+        System.out.println(a);
     }
 }
